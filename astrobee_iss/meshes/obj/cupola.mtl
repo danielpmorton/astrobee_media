@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/media/materials/textures/Cupola_Int_Diffuse.png
+map_Kd ../../media/materials/textures/Cupola_Int_Diffuse.png
 
 newmtl Cupola_Glass
 Ns 250.000000
@@ -29,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/media/materials/textures/Generic_Intersection.png
+map_Kd ../../media/materials/textures/Generic_Intersection.png
 
 newmtl Generic_Misc_Details
 Ns 250.000000
@@ -39,7 +39,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/media/materials/textures/Generic_Misc_Details.png
+map_Kd ../../media/materials/textures/Generic_Misc_Details.png
 
 newmtl Generic_Misc_Details_LIGHTS
 Ns 250.000000
@@ -49,4 +49,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/media/materials/textures/Generic_Misc_Details.png
+map_Kd ../../media/materials/textures/Generic_Misc_Details.png
