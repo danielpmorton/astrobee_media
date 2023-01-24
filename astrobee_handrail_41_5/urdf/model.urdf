@@ -27,13 +27,13 @@
     <visual name="body_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_handrail_41_5/meshes/handrail_41_5.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_handrail_41_5/meshes/handrail_41_5.dae"/>
       </geometry>
     </visual>
     <collision name="body_collision">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_handrail_41_5/meshes/handrail_41_5.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_handrail_41_5/meshes/handrail_41_5.dae"/>
       </geometry>
     </collision>
   </link>

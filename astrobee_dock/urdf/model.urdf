@@ -27,31 +27,31 @@
     <visual name="dock_body_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_dock/meshes/dock_base.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_dock/meshes/dock_base.dae"/>
       </geometry>
     </visual>
     <visual name="dock_pins_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_dock/meshes/dock_pins.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_dock/meshes/dock_pins.dae"/>
       </geometry>
     </visual>
     <visual name="dock_target_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_dock/meshes/dock_target.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_dock/meshes/dock_target.dae"/>
       </geometry>
     </visual>
     <visual name="dock_handles_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_dock/meshes/dock_handles.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_dock/meshes/dock_handles.dae"/>
       </geometry>
     </visual>
     <collision name="dock_body_collision">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_dock/meshes/dock_base.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_dock/meshes/dock_base.dae"/>
       </geometry>
       <gazebo>
         <surface>

@@ -27,7 +27,7 @@
     <visual name="granite_body_visual">
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://astrobee_granite/meshes/granite.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_granite/meshes/granite.dae"/>
       </geometry>
     </visual>
     <collision name='granite_body_collision_bottom'>
