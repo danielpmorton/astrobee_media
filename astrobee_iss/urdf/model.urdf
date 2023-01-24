@@ -35,7 +35,7 @@
     <collision name="iss_cupola_collision">
       <origin xyz="-4.4586144 -6.8356992 6.8434244" rpy="0 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/cupola.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/cupola.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -55,7 +55,7 @@
     <collision name="iss_eu_lab_collision">
       <origin xyz="10.9325664  2.3509732 4.8505872" rpy="0 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/eu_lab.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/eu_lab.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -75,7 +75,7 @@
     <collision name="iss_jpm_collision">
       <origin xyz="10.9358938 -2.3364698 4.8505872" rpy="3.1415 0 -1.570796" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/jpm.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/jpm.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -95,7 +95,7 @@
     <collision name="iss_node_1_collision">
       <origin xyz="-4.4630848 -0.0027432 4.8508666" rpy="0 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_1.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/node_1.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -117,7 +117,7 @@
     <collision name="iss_node_2_collision">
       <origin xyz="10.9744206  -0.0112558 4.8358958" rpy="0 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_2.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/node_2.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -137,7 +137,7 @@
     <collision name="iss_node_3_collision">
       <origin xyz="-4.4586144 -6.6356992 4.8434244" rpy="0 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_3.dae"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/node_3.obj"/>
       </geometry>
       <gazebo>
         <surface>
@@ -161,7 +161,7 @@
     <collision name="iss_us_lab_collision">
       <origin xyz="6.4125472  0.0064770 4.8348920" rpy="3.1415 0 0" />
       <geometry>
-        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/us_lab.dae" scale="1.0858 1.0858 1.0858"/>
+        <mesh filename="/home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/vhacd/us_lab.obj" scale="1.0858 1.0858 1.0858"/>
       </geometry>
       <gazebo>
         <surface>
