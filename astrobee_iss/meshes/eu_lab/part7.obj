@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/eu_lab/eu_lab.mtl
+mtllib ../../meshes/eu_lab/eu_lab.mtl
 #object Module_Connect_004_Generic_Lights
 
 v -0.518948 0.525362 -0.237145

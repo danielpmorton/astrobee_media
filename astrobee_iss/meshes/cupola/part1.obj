@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/cupola/cupola.mtl
+mtllib ../../meshes/cupola/cupola.mtl
 #object Cupola_Int_Cabin_Cupola_Glass
 
 v -0.600273 0.397432 -0.488388

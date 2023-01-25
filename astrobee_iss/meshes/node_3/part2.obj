@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_3/node_3.mtl
+mtllib ../../meshes/node_3/node_3.mtl
 #object Node3_Int__Bulkhead_SBD_Generic_Lights.004
 
 v 1.020065 0.650486 -3.479995

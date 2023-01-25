@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/jpm/jpm.mtl
+mtllib ../../meshes/jpm/jpm.mtl
 #object JPM_CollapsedForUnity_Starboard_Generic_Metals.002
 
 v 0.747931 1.022805 -1.147143

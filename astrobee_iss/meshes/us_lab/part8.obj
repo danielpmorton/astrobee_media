@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/us_lab/us_lab.mtl
+mtllib ../../meshes/us_lab/us_lab.mtl
 #object US_Lab_Int_AFT_Bulkhead_USLab_Racks_03
 
 v -7.643063 0.614116 -0.610816

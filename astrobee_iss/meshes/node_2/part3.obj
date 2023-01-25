@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_2/node_2.mtl
+mtllib ../../meshes/node_2/node_2.mtl
 #object Node2_Int_Hub_ZNH_Generic_Lights.003
 
 v -0.491230 0.735775 1.649352

@@ -1,5 +1,5 @@
 # Exported using automatic converter by Erwin Coumans
-mtllib /home/dan/astrobee_pybullet/astrobee_media/astrobee_iss/meshes/node_1/node_1.mtl
+mtllib ../../meshes/node_1/node_1.mtl
 #object Node1_Int_Metal_Hatch_Zenith_Generic_Misc_Details.002
 
 v -0.024059 -1.769358 0.136169
